@@ -1,2 +1,29 @@
-# 2kScraper
- Script to scrape 2k ratings of NBA players
+# Project Title
+
+A python script for scraping the NBA 2k ratings of NBA players. My end goal is to create a program to simulate NBA games and predict playoff series.
+
+### Prerequisites
+This script uses BeautifulSoup to parse through data on 2kratings.com
+
+```
+pip install bs4
+```
+
+## Running the program
+
+```
+python main.py
+```
+
+## Authors
+
+* **Kenneth Gelasio** - *Initial work* - [PurpleBooth](https://github.com/developillar)
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* 2kratings.com for the data
