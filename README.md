@@ -20,10 +20,6 @@ python main.py
 * **Kenneth Gelasio** - *Initial work* - [github](https://github.com/developillar)
 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
 ## Acknowledgments
 
 * 2kratings.com for the data
