@@ -15,6 +15,10 @@ pip install bs4
 python main.py
 ```
 
+## Future Versions
+* fix the issue with abbreviated names (e.g. J.R. Smith)
+* Add additional data (team, position, height, weight)
+* Clean data on CSV
 ## Authors
 
 * **Kenneth Gelasio** - *Initial work* - [github](https://github.com/developillar)
