@@ -17,7 +17,7 @@ python main.py
 
 ## Authors
 
-* **Kenneth Gelasio** - *Initial work* - [PurpleBooth](https://github.com/developillar)
+* **Kenneth Gelasio** - *Initial work* - [github](https://github.com/developillar)
 
 
 ## License
